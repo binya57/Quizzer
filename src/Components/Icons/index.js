@@ -1,0 +1,9 @@
+export { default as MuiListItemIcon } from "@mui/material/ListItemIcon";
+export { default as MuiPersonIcon } from "@mui/icons-material/Person";
+export { default as MuiAddIcon } from "@mui/icons-material/Add";
+export { default as MuiQuizIcon } from "@mui/icons-material/Quiz";
+export { default as MuiPeopleAltIcon } from "@mui/icons-material/PeopleAlt";
+export { default as MuiFormatListNumberedIcon } from "@mui/icons-material/FormatListNumbered";
+export { default as MuiExpandLess } from "@mui/icons-material/ExpandLess";
+export { default as MuiExpandMore } from "@mui/icons-material/ExpandMore";
+export { default as MuiPersonAddIcon } from "@mui/icons-material/PersonAdd";
